@@ -1,5 +1,3 @@
-# SQL_Questions_target_100
+Solving as many questions with different concepts will gives us the confidence in solving sql questions.
 
-Solving different interview questions will gives us the confidence over the different concepts.
-
-Thanks for visiting keep learning.
+Thanks for visitng keep learning.
